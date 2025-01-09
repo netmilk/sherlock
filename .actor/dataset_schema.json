@@ -27,7 +27,7 @@
             "title": "Overview",
             "transformation": {
               "fields": [
-                "usename",
+                "username",
                 "links"
               ],
             },
